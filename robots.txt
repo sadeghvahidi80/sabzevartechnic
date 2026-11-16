@@ -1,0 +1,10 @@
+# سبزوار چاپ — robots.txt
+User-agent: *
+Allow: /
+
+# نقشه سایت
+Sitemap: https://sabzevartechnic.ir/sitemap.xml
+
+# جلوگیری از ایندکس شدن مسیرهای غیرضروری (در صورت افزودن در آینده)
+Disallow: /admin/
+Disallow: /api/
